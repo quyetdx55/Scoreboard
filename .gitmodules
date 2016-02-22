@@ -1,9 +1,0 @@
-[submodule "server"]
-	path = server
-	url = ./
-[submodule "www"]
-	path = www
-	url = ./
-[submodule "siteHub"]
-	path = siteHub
-	url = ./
